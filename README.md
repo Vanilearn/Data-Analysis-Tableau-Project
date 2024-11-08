@@ -16,3 +16,7 @@ There are two CSV files ba reviews and countries.
 This is an interactive dashboard with various features. I can toggle between overall rating, cabin staff service, entertainment, food, ground service, seat comfort or even value. I have a timeline filter as well. I can choose the seat type like business class, economy class or all.  I can choose the traveler type, the aircraft and continent.  We have a big Title showing some summary metrics at the top. Average Custom Metric By Country (Map, Custom Parameter, Calculated Field, Advanced Filters)
 
 Various Tableau features like MAPS, tooltips, Metrics Parameters, Calculated field – to color the map based on Metric Selected, Filters based on – Month of Date, Seat type, traveler type, aircraft and continent.  Each of the visuals are Dynamic filters themselves. 
+
+
+To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
+https://public.tableau.com/app/profile/vanitha3265/viz/BritishAirwaysReview_17182649874810/Dashboard1?publish=yes
